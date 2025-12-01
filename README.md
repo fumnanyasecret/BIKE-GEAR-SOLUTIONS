@@ -99,50 +99,50 @@ B.Assess how different subcatergories perfom in terms of sales volume
 <img width="875" height="310" alt="image" src="https://github.com/user-attachments/assets/926e8ab3-1ad4-4fdf-97b8-78af6032ecdd" />  
 
 ### Dashboard KPIs
-Total Transaction: 113,058k
-Total Quantity: ~1,346,911
-Total Cost: 52,950,696M
-Total Revenue: 95,021,171M  
-Total Profit: 42,070,475M  
+Total Transaction: 113,058k  
+Total Quantity: ~1,346,911  
+Total Cost: 52,950,696M  
+Total Revenue: 95,021,171M   
+Total Profit: 42,070,475M    
 
 ### Trends & Insights
-1️⃣ Profit peaked in December, 2015 (1.8M) Seasonal times are December and June
-2️⃣ Top Sub_Categories: Road bikes, mountain bikes and helmet.
-3️⃣ Country Leaders: United States, Australia and United Kingdom has the most customers.
-4️⃣ Young Adult vs Adult Revenue: 819,240k vs 94.2M 
-5️⃣ Revenue peaked in December,2015 (4.2M)
+1️⃣ Profit peaked in December, 2015 (1.8M) Seasonal times are December and June  
+2️⃣ Top Sub_Categories: Road bikes, mountain bikes and helmet  
+3️⃣ Country Leaders: United States, Australia and United Kingdom has the most customers  
+4️⃣ Young Adult vs Adult Revenue: 819,240k vs 94.2M  
+5️⃣ Revenue peaked in December,2015 (4.2M)  
 
 ### Focus Areas and Key Insights
-1️⃣ Revenue Drivers - 70% of revenue from Bikes, 20% of revenue from accessories only 10% from clothing
-2️⃣ Geographical location - United States of America lead revenue generated
-3️⃣ Sales Performance - 'Young Adult'do purchase much products(Sales should be focused on 'Adult' <18years)
-4️⃣ Seasonality- More sales in December and June — requires strengthened customers retention 
-5️⃣ Feedback Focus -Review marketing strategy during holidays, summer and spring.
-6️⃣ Product category Growth - Improve clothing and accessories offers, check pricing and fix operational barriers.  
+1️⃣ Revenue Drivers - 70% of revenue from Bikes, 20% of revenue from accessories only 10% from clothing  
+2️⃣ Geographical location - United States of America lead revenue generated  
+3️⃣ Sales Performance - 'Young Adult'do purchase much products(Sales should be focused on 'Adult' <18years)  
+4️⃣ Seasonality- More sales in December and June — requires strengthened customers retention   
+5️⃣ Feedback Focus -Review marketing strategy during holidays, summer and spring  
+6️⃣ Product category Growth - Improve clothing and accessories offers, check pricing and fix operational barriers    
 
 ### 📈 Recommendations
-1️⃣ Double down with more commitment on Top Category by investing in Bike product innovation.
-2️⃣ Optimise discount strategy by capping at ≤15% for sustainable margins.
-3️⃣ Run bundle offers and promotion advert for Accessories and clothing.
-4️⃣ Enhance product quality by strengthening supplier and quality control processes.
-5️⃣ Reward loyal regional customers through personalised offers for USA and Australia.
-6️⃣ Scale regional campaigns by prioritising Canada, France and Germany.  
-7️⃣ Target 'Young Adult' customers by market survey to know their interest of product purchase
+1️⃣ Double down with more commitment on Top Category by investing in Bike product innovation  
+2️⃣ Optimise discount strategy by capping at ≤15% for sustainable margins  
+3️⃣ Run bundle offers and promotion advert for Accessories and clothing.  
+4️⃣ Enhance product quality by strengthening supplier and quality control processes.  
+5️⃣ Reward loyal regional customers through personalised offers for USA and Australia.  
+6️⃣ Scale regional campaigns by prioritising Canada, France and Germany.   
+7️⃣ Target 'Young Adult' customers by market survey to know their interest of product purchase.  
 
 
 ### 🧰 Tool
 Tool used 
- 1️⃣Excel - To effectively format the dataset before converting to CSV and subsequently importing it into PostgreSQL for analysis
+ 1️⃣Excel - To effectively format the dataset before converting to CSV and subsequently importing it into PostgreSQL for analysis  
 
 ⚠️ Disclaimer
 
-This project is for educational and portfolio demonstration only. Data is simulated and does not represent any real organisation.
+This project is for educational and portfolio demonstration only. Data is simulated and does not represent any real organisation.  
 
-### 🔗 Connect With Me
-Ifunanya R. Uzokwe
-📩 Uzokweifunanya10@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/ifunanya-uzokwe/)
-💻 [GitHub](https://github.com/fumnanyasecret) 
+### 🔗 Connect With Me  
+Ifunanya R. Uzokwe  
+📩 Uzokweifunanya10@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ifunanya-uzokwe/)  
+💻 [GitHub](https://github.com/fumnanyasecret)   
 
 
 
