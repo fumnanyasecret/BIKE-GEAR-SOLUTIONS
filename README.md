@@ -1,5 +1,6 @@
 # BIKE-GEAR-SOLUTIONS
-Bike Gear Solutions (Retailer specializing in bike racks and cycling accessories across Canada🍁, US and Austrailia)
+Bike Gear Solutions (Retailer specializing in bike racks and cycling accessories across various Countries)  
+
 <img width="238" height="129" alt="image" src="https://github.com/user-attachments/assets/e89cf630-cc95-4dd5-9cd2-2a45005371b9" />
 <img width="140" height="124" alt="image" src="https://github.com/user-attachments/assets/8b9261e2-2ef4-43b3-acb6-288a2dbffb4d" />
 <img width="101" height="116" alt="image" src="https://github.com/user-attachments/assets/5afd60c8-3b1a-454c-945e-82be15c99f37" />
@@ -105,32 +106,32 @@ Total Revenue: 95,021,171M
 Total Profit: 42,070,475M  
 
 ### Trends & Insights
-1️⃣ Revenue peaked in October (17.4M), dipped in June (12.6M)
-2️⃣ Top Bundles: J, I, and H — primarily in Wellness & Essentials
-3️⃣ City Leaders: Port Harcourt and Enugu have the most active customers
-4️⃣ 2024 vs 2025: 110.4M vs 79.9M (Although YTD decline in 2025)
-5️⃣ Lowest Ratings: Product Quality & Billing Issues
+1️⃣ Profit peaked in December, 2015 (1.8M) Seasonal times are December and June
+2️⃣ Top Sub_Categories: Road bikes, mountain bikes and helmet.
+3️⃣ Country Leaders: United States, Australia and United Kingdom has the most customers.
+4️⃣ Young Adult vs Adult Revenue: 819,240k vs 94.2M 
+5️⃣ Revenue peaked in December,2015 (4.2M)
 
 ### Focus Areas and Key Insights
-1️⃣ Revenue Drivers - 80% of revenue from Wellness & Essentials
-2️⃣ Customer Spend - Gold-tier customers lead average spend
-3️⃣ Payment Performance - 728 failed payments (payment system improvements needed)
-4️⃣ Discount Impact - 14% discount — requires optimisation for profitability
-5️⃣ Feedback Focus - Product quality and billing issues drive dissatisfaction
-6️⃣ Regional Growth - Port Harcourt & Enugu have the strongest engagement
-
+1️⃣ Revenue Drivers - 70% of revenue from Bikes, 20% of revenue from accessories only 10% from clothing
+2️⃣ Geographical location - United States of America lead revenue generated
+3️⃣ Sales Performance - 'Young Adult'do purchase much products(Sales should be focused on 'Adult' <18years)
+4️⃣ Seasonality- More sales in December and June — requires strengthened customers retention 
+5️⃣ Feedback Focus -Review marketing strategy during holidays, summer and spring.
+6️⃣ Product category Growth - Improve clothing and accessories offers, check pricing and fix operational barriers.  
 
 ### 📈 Recommendations
-1️⃣ Double down with more commitment on Top Categories by investing in Wellness & Essentials product innovation.
+1️⃣ Double down with more commitment on Top Category by investing in Bike product innovation.
 2️⃣ Optimise discount strategy by capping at ≤15% for sustainable margins.
-3️⃣ Reduce failed payments by auditing payment gateways and retry logic.
+3️⃣ Run bundle offers and promotion advert for Accessories and clothing.
 4️⃣ Enhance product quality by strengthening supplier and quality control processes.
-5️⃣ Reward loyal customers through personalised offers for Gold and Platinum tiers.
-6️⃣ Scale regional campaigns by prioritising Port Harcourt & Enugu for local outreach.
+5️⃣ Reward loyal regional customers through personalised offers for USA and Australia.
+6️⃣ Scale regional campaigns by prioritising Canada, France and Germany.  
+7️⃣ Target 'Young Adult' customers by market survey to know their interest of product purchase
 
 
-### 🧰 Tools
-Tools used 
+### 🧰 Tool
+Tool used 
  1️⃣Excel - To effectively format the dataset before converting to CSV and subsequently importing it into PostgreSQL for analysis
 
 ⚠️ Disclaimer
@@ -141,7 +142,7 @@ This project is for educational and portfolio demonstration only. Data is simula
 Ifunanya R. Uzokwe
 📩 Uzokweifunanya10@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/ifunanya-uzokwe/)
-💻 [GitHub](https://github.com/Sunday-Adedeji) 
+💻 [GitHub](https://github.com/fumnanyasecret) 
 
 
 
