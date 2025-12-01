@@ -20,7 +20,7 @@ Without a clear view of its highest-performing regions and products segments, th
 This project applies **Exploratory Data Analysis** and **visualisation** to reveal:  
  🔺Revenue distribution by Region 🗾  
  🔺Which age group does our product mostly appeal to 👥  
- 🔺Product popularity 👑
+ 🔺Product popularity 👑  
 🔺Sales Seasonality 📉 
  
 By merging data cleaning, Data analysis, pivot table and dashboard storytelling, this project transforms raw data into a roadmap for smarter growth and retention.  
@@ -28,7 +28,7 @@ By merging data cleaning, Data analysis, pivot table and dashboard storytelling,
 ---
 
 ##  Requirements to be uncovered
-1. Analyse which countries or states genearte the most revenue 
+1. Analyse which countries or states generate the most revenue 
 2. Group the customers into age agroups 'young adult' and 'Adult' 
 3. Assess how different subcatergories perfom in terms of sales volume 
 4. Identify trends in sales across different times of the year and correlate them with holidays and cyling season
@@ -54,7 +54,7 @@ By merging data cleaning, Data analysis, pivot table and dashboard storytelling,
 | `Order_Quantity` | Number of units ordered |
 | `Unit_Cost` | Cost of the business for one unit of the product|
 | `Unit_Price` | Selling price of one unit |
-| `Profit` | Earings from the sale after subtracting cost |
+| `Profit` | Earnings from the sale after subtracting cost |
 | `Cost` |Total cost of the transaction |
 | `Revenue` | Total income from the transaction |
 
@@ -71,5 +71,91 @@ By merging data cleaning, Data analysis, pivot table and dashboard storytelling,
 6. **Recommedations** - Delivered clear, data-driven recommendations on which regions to prioritize, which demographics to targert and how to plan for seasonal peaks.
 
 ---
+**Imported clean Data**
+<img width="933" height="367" alt="image" src="https://github.com/user-attachments/assets/29215fb5-9f52-4974-a477-76bf0e76d97c" />
+
+---
+**Pivot Tables**  
+*Sum of VALUES*  
+ <img width="182" height="117" alt="image" src="https://github.com/user-attachments/assets/b65a6df9-7945-4697-bf55-350c32de1514" />
+ 
+
+A. Analyse which countries or states generate the most revenue  
+ <img width="184" height="131" alt="image" src="https://github.com/user-attachments/assets/4696fb93-db02-4c2c-ae50-557e590a80fc" />
+
+B.Assess how different subcatergories perfom in terms of sales volume  
+ <img width="346" height="302" alt="image" src="https://github.com/user-attachments/assets/570cc233-8b75-40ce-97b0-71050ee34321" />
+
+ ---
+ **DashBoard**  
+ <img width="863" height="308" alt="image" src="https://github.com/user-attachments/assets/7930d6b3-590d-4c34-ab60-d7151e417246" />
+
+---
+**Filtered dashboard by age_group 'young adult' ('=IF([@[Customer_Age]]<18,"young adult", "Adult")  
+<img width="868" height="307" alt="image" src="https://github.com/user-attachments/assets/d6c92073-7c30-41e5-b1f9-29a7d7717e13" />
+
+**Filtered dashboard by age_group 'Adult' ('=IF([@[Customer_Age]]<18,"young adult", "Adult")  
+<img width="875" height="310" alt="image" src="https://github.com/user-attachments/assets/926e8ab3-1ad4-4fdf-97b8-78af6032ecdd" />  
+
+### Dashboard KPIs
+Total Transaction: 113,058k
+Total Quantity: ~1,346,911
+Total Cost: 52,950,696M
+Total Revenue: 95,021,171M  
+Total Profit: 42,070,475M  
+
+### Trends & Insights
+1️⃣ Revenue peaked in October (17.4M), dipped in June (12.6M)
+2️⃣ Top Bundles: J, I, and H — primarily in Wellness & Essentials
+3️⃣ City Leaders: Port Harcourt and Enugu have the most active customers
+4️⃣ 2024 vs 2025: 110.4M vs 79.9M (Although YTD decline in 2025)
+5️⃣ Lowest Ratings: Product Quality & Billing Issues
+
+### Focus Areas and Key Insights
+1️⃣ Revenue Drivers - 80% of revenue from Wellness & Essentials
+2️⃣ Customer Spend - Gold-tier customers lead average spend
+3️⃣ Payment Performance - 728 failed payments (payment system improvements needed)
+4️⃣ Discount Impact - 14% discount — requires optimisation for profitability
+5️⃣ Feedback Focus - Product quality and billing issues drive dissatisfaction
+6️⃣ Regional Growth - Port Harcourt & Enugu have the strongest engagement
+
+
+### 📈 Recommendations
+1️⃣ Double down with more commitment on Top Categories by investing in Wellness & Essentials product innovation.
+2️⃣ Optimise discount strategy by capping at ≤15% for sustainable margins.
+3️⃣ Reduce failed payments by auditing payment gateways and retry logic.
+4️⃣ Enhance product quality by strengthening supplier and quality control processes.
+5️⃣ Reward loyal customers through personalised offers for Gold and Platinum tiers.
+6️⃣ Scale regional campaigns by prioritising Port Harcourt & Enugu for local outreach.
+
+
+### 🧰 Tools
+Tools used 
+ 1️⃣Excel - To effectively format the dataset before converting to CSV and subsequently importing it into PostgreSQL for analysis
+
+⚠️ Disclaimer
+
+This project is for educational and portfolio demonstration only. Data is simulated and does not represent any real organisation.
+
+### 🔗 Connect With Me
+Ifunanya R. Uzokwe
+📩 Uzokweifunanya10@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/ifunanya-uzokwe/)
+💻 [GitHub](https://github.com/Sunday-Adedeji) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
