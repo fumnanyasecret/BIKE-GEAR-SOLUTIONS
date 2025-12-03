@@ -130,19 +130,18 @@ Total Profit: 42,070,475M
 7️⃣ Target 'Young Adult' customers by market survey to know their interest of product purchase.  
 
 
-### 🧰 Tool
-Tool used 
+### 🧰 Tool  
+Tool used  
  1️⃣Excel - To effectively format the dataset before converting to CSV and subsequently importing it into PostgreSQL for analysis  
 
-⚠️ Disclaimer
-
+⚠️ Disclaimer  
 This project is for educational and portfolio demonstration only. Data is simulated and does not represent any real organisation.  
 
 ### 🔗 Connect With Me  
 Ifunanya R. Uzokwe  
 📩 Uzokweifunanya10@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ifunanya-uzokwe/)  
-💻 [GitHub](https://github.com/fumnanyasecret)   
+🔗 [LinkedIn](https://www.linkedin.com/in/Ifunanya-uzokwe/)    
+💻 [GitHub](https://github.com/fumnanyasecret)    
 
 
 
