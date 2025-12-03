@@ -73,7 +73,8 @@ By merging data cleaning, Data analysis, pivot table and dashboard storytelling,
 
 ---
 **Imported clean Data**
-<img width="933" height="367" alt="image" src="https://github.com/user-attachments/assets/29215fb5-9f52-4974-a477-76bf0e76d97c" />
+<img width="933" height="367" alt="image" src="https://github.com/user-attachments/assets/29215fb5-9f52-4974-a477-76bf0e76d97c" />  
+ *PS:Please note that this is just a portion of the Excel table*  
 
 ---
 **Pivot Tables**  
